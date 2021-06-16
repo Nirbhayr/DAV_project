@@ -9,6 +9,6 @@ The data can be viewed here- https://www.kaggle.com/c/aptos2019-blindness-detect
 
 There are 3 folders
 1. Final results folder includes all screenshots and plots generated for the project
-2. Model includes the actual training file in python(ipynb)
+2. Train includes the actual training file in python(ipynb)
 3. The others folders include relevant papers and references used for the successful completion of the project.
 
